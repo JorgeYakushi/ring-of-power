@@ -1,11 +1,11 @@
-import React, { FC } from "react";
-import Login from "../Common/Components/LoginYoutube";
+import React, { FC, useState } from "react";
+
+import LogoutYoutube from "Common/Hooks/Youtube/LogoutYoutube";
 const Youtube: FC = () => {
   return (
     <>
       <div className="">
-        Youtube
-        <Login />
+        <LogoutYoutube />
       </div>
     </>
   );
