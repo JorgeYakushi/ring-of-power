@@ -137,3 +137,5 @@ node_modules
 psd
 thumb
 sketch
+
+ring-of-power-client/src/Environments/environment.ts
