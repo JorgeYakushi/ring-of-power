@@ -1,4 +1,6 @@
 export const environment = {
   youtubeClientId:
-    "604376069778-cttv9k6i5nde8j70kn6ol3blspl72a5n.apps.googleusercontent.com",
+    "401443293564-80rhc66onvqaf7g73ibrk93o6uci5c1a.apps.googleusercontent.com",
+  youtubeSecret: "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",
+  youtubeApiKey: "AIzaSyDnGCHStLetIN8L7Df7DK8-TgPc8A6iXCM",
 };
